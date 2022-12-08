@@ -47,6 +47,7 @@ Um pinger muito simples feito apenas para ver se o IP esta online ou offline e q
 Ferramentas:
 
 * IP Status
+* IP Latencia
 
 
 
