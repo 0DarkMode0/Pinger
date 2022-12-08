@@ -41,13 +41,13 @@
 
 </div>
 
-Um pinger muito simples feito apenas para ver se o IP esta online ou offline e qual a latencia dele, Pode ser usado para ver se um attack DDoS esta funcionando.
+Um pinger muito simples feito apenas para ver se o IP esta online ou offline e qual a latência dele, Pode ser usado para ver se um attack DDoS esta funcionando.
 
 </br>
 Ferramentas:
 
 * IP Status
-* IP Latencia
+* IP Latência
 
 
 
