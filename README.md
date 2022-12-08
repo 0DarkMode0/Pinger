@@ -52,10 +52,10 @@ Ferramentas:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/0DarkMode0/README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/0DarkMode0/README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/0DarkMode0/README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/0DarkMode0/README-Template/stargazers
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/0DarkMode0/Pinger.svg?style=for-the-badge
+[forks-url]: https://github.com/0DarkMode0/Pinger/network/members
+[stars-shield]: https://img.shields.io/github/stars/0DarkMode0/Pinger.svg?style=for-the-badge
+[stars-url]: https://github.com/0DarkMode0/Pinger/stargazers
+[license-shield]: https://img.shields.io/github/license/0DarkMode0/Pinger.svg?style=for-the-badge
+[license-url]: https://github.com/0DarkMode0/Pinger/blob/master/LICENSE.txt
 [product-screenshot]: imagens/projeto.png
